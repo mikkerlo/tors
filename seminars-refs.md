@@ -42,7 +42,7 @@
 * [Асинхронность в программировании](https://habr.com/ru/company/jugru/blog/446562/)
 * [Реализация async/await в Kotlin](https://github.com/Kotlin/KEEP/blob/master/proposals/coroutines.md#state-machines)
 * [C++ Coroutines: A Negative Overhead Abstraction](https://github.com/GorNishanov/await/blob/master/2015_CppCon/C%2B%2B%20Coroutines%20-%20Gor%20Nishanov%20-%20CppCon%202015.pdf)
-* Rust: [Recoverable Errors / Propagating Errors](https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#propagating-errors), [Await Syntax Write Up](https://paper.dropbox.com/doc/Await-Syntax-Write-Up-t9NlOSeI4RQ8AINsaSSyJ), [A final proposal for await syntax](https://boats.gitlab.io/blog/post/await-decision/)
+* Rust: [Async/Await Proposal](https://github.com/rust-lang/rfcs/blob/master/text/2394-async_await.md), [Propagating Errors](https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#propagating-errors), [Await Syntax Write Up](https://paper.dropbox.com/doc/Await-Syntax-Write-Up-t9NlOSeI4RQ8AINsaSSyJ), [A final proposal for await syntax](https://boats.gitlab.io/blog/post/await-decision/)
 * [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 * [Cactus](https://gitlab.com/levysotsky/shad-cpp-cactus/tree/master/cactus) – учебная библиотека для сетевого IO на файберах
 * [Echo server in Go](https://github.com/golergka/go-tcp-echo/blob/master/go-tcp-echo.go)
