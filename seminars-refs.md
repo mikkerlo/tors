@@ -7,11 +7,8 @@
 * [Google Data Center 360° Tour](https://www.youtube.com/watch?v=zDAYZU4A3w0)
 * [Google Cloud Infrastructure](https://cloud.withgoogle.com/infrastructure)
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
-
-----
+---
 * [What Can We Learn from Four Years of Data Center Hardware Failures?](https://pdfs.semanticscholar.org/e1ff/9a9441726e731d2fd8d5f8316f3a5da1ac68.pdf)
-* correlated faults, failure domains
-* cascading failures
 
 ## TCP
 * [Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
