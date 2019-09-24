@@ -47,7 +47,7 @@
 * [Cactus](https://gitlab.com/levysotsky/shad-cpp-cactus/tree/master/cactus) – учебная библиотека для сетевого IO на файберах
 * [Echo server in Go](https://github.com/golergka/go-tcp-echo/blob/master/go-tcp-echo.go)
 
-## Erasure Encoding
+## Erasure Codes
 * [Erasure Coding in Windows Azure Storage](https://www.usenix.org/conference/atc12/technical-sessions/presentation/huang)
 * [Коды избыточности в Яндекс](https://habr.com/ru/company/yandex/blog/311806/)
 
