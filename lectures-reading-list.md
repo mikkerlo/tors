@@ -72,7 +72,8 @@
 - [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 - [Google SRE Book / Managing Critical State: Distributed Consensus for Reliability](https://landing.google.com/sre/book/chapters/managing-critical-state.html)
 - [Consensus: Bridging Theory and Practice](https://github.com/ongardie/dissertation/blob/master/book.pdf?raw=true)
-- ZooKeeper: Distributed Process Coordination / Zookeeper Internals
+- [ZooKeeper Internals](https://www.oreilly.com/library/view/zookeeper/9781449361297/ch09.html)
+- [Linearizable Quorum Reads in Paxos](https://www.usenix.org/conference/hotstorage19/presentation/charapko)
 
 ## 8-9. Formal Methods, TLA+
 
