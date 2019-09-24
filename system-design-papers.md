@@ -1,8 +1,4 @@
-# System Design Papers
-
-- [Building Large-Scale Internet Services](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44877.pdf)
-
----
+# System Design Seminal Papers
 
 - [MapReduce: Simplified Data Processing on Large Clusters](https://ai.google/research/pubs/pub62)
 - [The Google File System](https://ai.google/research/pubs/pub51), [GFS: Evolution on Fast-forward](https://queue.acm.org/detail.cfm?id=1594206)
