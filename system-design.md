@@ -1,4 +1,8 @@
 
+- [Building Large-Scale Internet Services @ Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44877.pdf)
+
+---
+
 - [Linkedin Ambry](https://github.com/linkedin/ambry/wiki)
 - [Apache Kafka Design](https://kafka.apache.org/documentation/#design)
 - [LogDevice: a distributed data store for logs](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
