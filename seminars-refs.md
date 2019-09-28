@@ -37,14 +37,18 @@
 ## Asynchrony 
 * [epoll - I/O event notification facility](http://man7.org/linux/man-pages/man7/epoll.7.html)
 * [Реактивный эхо-сервер на libuv](https://github.com/libuv/libuv/blob/v1.x/docs/code/tcp-echo-server/main.c)
+* [Thinking Asynchronously: Designing Applications with Boost.Asio](https://www.youtube.com/watch?v=D-lTwGJRx0o), [slides](http://cpp.mimuw.edu.pl/files/boost_vs_qt/asio/thinking_asynchronously.pdf)
 * [Your Server as a Function](https://monkey.org/~marius/funsrv.pdf)
 * [Futures for C++11 at Facebook](https://engineering.fb.com/developer-tools/futures-for-c-11-at-facebook/), [Documentation](https://github.com/facebook/folly/blob/master/folly/docs/Futures.md)
 * [Асинхронность в программировании](https://habr.com/ru/company/jugru/blog/446562/)
 * [Реализация async/await в Kotlin](https://github.com/Kotlin/KEEP/blob/master/proposals/coroutines.md#state-machines)
 * [C++ Coroutines: A Negative Overhead Abstraction](https://github.com/GorNishanov/await/blob/master/2015_CppCon/C%2B%2B%20Coroutines%20-%20Gor%20Nishanov%20-%20CppCon%202015.pdf)
 * Rust: [Async/Await Proposal](https://github.com/rust-lang/rfcs/blob/master/text/2394-async_await.md), [Propagating Errors](https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#propagating-errors), [Await Syntax Write Up](https://paper.dropbox.com/doc/Await-Syntax-Write-Up-t9NlOSeI4RQ8AINsaSSyJ), [A final proposal for await syntax](https://boats.gitlab.io/blog/post/await-decision/)
+* C++: [Better keywords for the Coroutines](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1485r1.html)
 * [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+* [C++ Coroutines: Understanding operator co_await](https://lewissbaker.github.io/2017/11/17/understanding-operator-co-await), 
 * [Cactus](https://gitlab.com/levysotsky/shad-cpp-cactus/tree/master/cactus) – учебная библиотека для сетевого IO на файберах
+* [Асинхронность: назад в будущее](https://habr.com/ru/post/201826/)
 * [Echo server in Go](https://github.com/golergka/go-tcp-echo/blob/master/go-tcp-echo.go)
 
 ## Erasure Codes
