@@ -6,7 +6,7 @@
 
 - [Understanding GPS: Principles and Applications](http://d1.amobbs.com/bbs_upload782111/files_33/ourdev_584835O21W59.pdf)
 - [Time, Clocks and GPS](http://www2.unb.ca/gge/Resources/gpsworld.nov-dec91.corr.pdf)
-- [Relativistic Effects in the Global Positioning System](https://www.aapt.org/doorway/TGRU/articles/Ashbyarticle.pdf), [GPS, Relativity, and
+- [Relativistic Effects in the Global Positioning System](https://www.aapt.org/doorway/TGRU/articles/Ashbyarticle.pdf), [Why does GPS depend on relativity?](https://physics.stackexchange.com/a/128951), [GPS, Relativity, and
 pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - [Spanner, TrueTime and the CAP Theorem](https://ai.google/research/pubs/pub45855)
 
