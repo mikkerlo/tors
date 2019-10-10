@@ -35,6 +35,7 @@ pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - [Notes on Theory of Distributed Computing](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf), глава 12
 - [Псевдокод](https://pdos.csail.mit.edu/archive/6.824-2013/notes/paxos-code.html)
 - [Неоднозначность](https://stackoverflow.com/questions/29880949/contradiction-in-lamports-paxos-made-simple-paper) в Paxos Made Simple, на которую ссылается Лэмпорт в своей [заметке](http://lamport.azurewebsites.net/pubs/pubs.html#paxos-simple)
+- [Who are the legislators of Paxos](https://cs.stackexchange.com/questions/12401/who-are-the-legislators-of-paxos) 
 
 ## 6. State Machine Replication, MultiPaxos
 
