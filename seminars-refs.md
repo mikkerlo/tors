@@ -56,8 +56,8 @@
 * [Коды избыточности в Яндекс](https://habr.com/ru/company/yandex/blog/311806/)
 
 ## RAFT
+* https://raft.github.io/
 * [RAFT Lecture](http://youtu.be/YbZ3zDzDnrw), [Slides](https://ongardie.net/static/raft/userstudy/raft.pdf)
-* [RAFT Visualization](http://thesecretlivesofdata.com/raft/)
 * https://github.com/etcd-io/etcd/tree/master/raft
 * https://github.com/pingcap/raft-rs
 
