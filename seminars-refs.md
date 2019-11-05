@@ -72,6 +72,7 @@
 * [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 * [ZooKeeper Internals](https://www.oreilly.com/library/view/zookeeper/9781449361297/ch09.html)
 * [Distributed Consensus Reloaded: Apache ZooKeeper and Replication in Apache Kafka](https://www.confluent.io/blog/distributed-consensus-reloaded-apache-zookeeper-and-replication-in-kafka/)
+* [Hardening Kafka Replication](https://yadi.sk/i/6e2ep3K_dKkeQg) 
 
 ## Actor model
 * [Actor Model](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
