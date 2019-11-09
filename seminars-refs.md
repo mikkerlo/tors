@@ -70,6 +70,7 @@
 ## Consensus as a Service – ZooKeeper
 * [The Chubby lock service for loosely-coupled distributed systems](https://ai.google/research/pubs/pub27897)
 * [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
+* [ZK docs](https://zookeeper.apache.org/doc/current/index.html), [API](https://zookeeper.apache.org/doc/r3.4.6/api/org/apache/zookeeper/ZooKeeper.html) 
 * [ZooKeeper Internals](https://www.oreilly.com/library/view/zookeeper/9781449361297/ch09.html)
 * [Distributed Consensus Reloaded: Apache ZooKeeper and Replication in Apache Kafka](https://www.confluent.io/blog/distributed-consensus-reloaded-apache-zookeeper-and-replication-in-kafka/)
 * [Hardening Kafka Replication](https://yadi.sk/i/z0-7DDv4P4wSKw) 
