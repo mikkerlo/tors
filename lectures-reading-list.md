@@ -94,6 +94,11 @@ pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - [Use of Formal Methods at Amazon Web Services](https://lamport.azurewebsites.net/tla/formal-methods-amazon.pdf)
 - [Experience of software engineers	using TLA+, PlusCal and TLC](http://tla2012.loria.fr/contributed/newcombe-slides.pdf)
 
+### Примеры
+
+- [Euclid](https://github.com/afronski/playground-courses/blob/master/tla-plus/euclid-algorithm-sample/Euclid.tla)
+- [DieHard](https://github.com/jameshfisher/tlaplus/tree/master/examples/DieHard)
+- [FPaxos](https://github.com/fpaxos/fpaxos-tlaplus/blob/master/FPaxos.tla)
 
 ### Спецификации
 
