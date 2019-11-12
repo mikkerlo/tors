@@ -1,0 +1,12 @@
+Задача | Дата
+ ---- |------
+`abd-truetime` | 0.5
+`raft-safety` | 0.5
+`rsm-exactly-once` | 0.5
+`timestamp-oracle` | 0.5
+`tlaplus-abd` | 2
+`zookeeper-codewalk` | 2
+`paper-gfs` | 1.5
+`paper-bigtable` | 1.5
+`paper-chubby` | 1.5
+`paper-spanner` | 1.5
