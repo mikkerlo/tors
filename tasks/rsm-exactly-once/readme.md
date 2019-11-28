@@ -1,5 +1,7 @@
 ## Семантика exactly-once для клиента RSM
 
+[There are only two hard problems in distributed systems ...](https://twitter.com/mathiasverraes/status/632260618599403520)
+
 Пусть вы реплицируете произвольный автомат (дерево метаданных для распределеной файловой системы или _таблет_ распределенного K/V хранилища) с помощью _SMR_ (_State Machine Replication_, например Multi-Paxos или RAFT).
 
 Вероятно ваш автомат поддерживает неидемпотентные операции, например, `Сreate`, `Lock`, `Compare-And-Set` и т.п.
