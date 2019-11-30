@@ -127,7 +127,7 @@ pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - [From Viewstamped Replication to Byzantine Fault Tolerance](http://www.pmg.csail.mit.edu/papers/vr-to-bft.pdf)
 - [Реализация PBFT из Hyperledger](https://github.com/hyperledger-archives/fabric/tree/master/consensus/pbft)
 - [Subtle Details in PBFT](http://ug93tad.github.io/pbft/)
-- [Zyzzyva](http://www.cs.cornell.edu/lorenzo/papers/kotla07Zyzzyva.pdf)
+- [Zyzzyva](http://www.cs.cornell.edu/lorenzo/papers/kotla07Zyzzyva.pdf), [I Hate the Primary](https://twitter.com/heidiann360/status/1198966119555579907)
 
 ## 12-13. Bitcoin and cryptocurrencies
 
