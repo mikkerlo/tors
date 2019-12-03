@@ -4,7 +4,7 @@
 1. Заведите отдельную ветку с именем задачи: `abd-truetime`.
 2. В этой ветке заведите в корне директорию с именем задачи: `abd-truetime`.
 3. Положите в нее файлы решения, точка входа в решение – `readme.md`.
-4. Создайте [merge request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) с именем вида `[hse] [Роман Липовский] abd-truetime` или `[mipt] [Роман Липовский] abd-truetime` соответственно.
+4. Создайте [merge request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) с именем вида `[hse] [Имя Фамилия] abd-truetime` или `[mipt] [Имя Фамилия] abd-truetime` соответственно.
 
 Одна задача – одна ветка и один MR.
 
