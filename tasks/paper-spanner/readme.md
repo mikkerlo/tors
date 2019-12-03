@@ -1,7 +1,7 @@
 # Google Spanner
 
 ## Список для чтения
-* [Spanner: Google's Globally-Distributed Database](https://ai.google/research/pubs/pub39966)
+* [Spanner: Google's Globally-Distributed Database](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)
 * [Spanner, TrueTime and the CAP Theorem](https://ai.google/research/pubs/pub45855)
 
 ### Spanner Txns Documentation
