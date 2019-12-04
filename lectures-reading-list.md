@@ -128,6 +128,7 @@ pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - [Реализация PBFT из Hyperledger](https://github.com/hyperledger-archives/fabric/tree/master/consensus/pbft)
 - [Subtle Details in PBFT](http://ug93tad.github.io/pbft/)
 - [Zyzzyva](http://www.cs.cornell.edu/lorenzo/papers/kotla07Zyzzyva.pdf), [I Hate the Primary](https://twitter.com/heidiann360/status/1198966119555579907)
+- [The Saddest Moment](https://scholar.harvard.edu/files/mickens/files/thesaddestmoment.pdf)
 
 ## 12-13. Bitcoin and cryptocurrencies
 
