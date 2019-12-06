@@ -123,7 +123,7 @@ pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 
 - [Paper](http://pmg.csail.mit.edu/papers/osdi99.pdf)
 - [PhD thesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/thesis-mcastro.pdf)
-- [Talk by Miguel Castro](https://www.youtube.com/watch?v=Q0xYCN-rvUs)
+- [Talk by Miguel Castro](https://www.youtube.com/watch?v=Q0xYCN-rvUs), [Talk by Barbara Liskov](https://www.youtube.com/watch?v=Uj638eFIWg8)
 - [From Viewstamped Replication to Byzantine Fault Tolerance](http://www.pmg.csail.mit.edu/papers/vr-to-bft.pdf)
 - [Реализация PBFT из Hyperledger](https://github.com/hyperledger-archives/fabric/tree/master/consensus/pbft)
 - [Subtle Details in PBFT](http://ug93tad.github.io/pbft/)
