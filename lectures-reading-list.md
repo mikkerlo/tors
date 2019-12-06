@@ -106,6 +106,8 @@ pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - [Flexible Paxos](https://github.com/fpaxos/fpaxos-tlaplus/blob/master/FPaxos.tla) – Single Decree Paxos with flexible quorums
 - [Snapshot Isolation](https://github.com/will62794/snapshot-isolation-spec/blob/master/SnapshotIsolation.tla), [Serializable Snapshot Isolation](https://github.com/pron/amazon-snapshot-spec/blob/master/serializableSnapshotIsolation.tla) – алгоритмы изоляции транзакций
 - [Google Percolator](https://github.com/pingcap/tla-plus/blob/master/Percolator/Percolator.tla) - по мотивам статьи [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36726.pdf)
+- [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
+- [TLA+ in CocroachDB](https://github.com/cockroachdb/cockroach/tree/master/docs/tla-plus), [Parallel Commits: An Atomic Commit Protocol For Globally Distributed Transactions](https://www.cockroachlabs.com/blog/parallel-commits/)
 - [Kafka Replication Protocol](https://github.com/hachikuji/kafka-specification/blob/master/Kip101.tla), [доклад](https://www.confluent.io/kafka-summit-sf18/hardening-kafka-replication)
 - [Consistency Models in CosmosDB](https://github.com/Azure/azure-cosmos-tla/blob/master/general-model/cosmos_client.tla), [доклад](https://www.youtube.com/watch?v=Ej6dlMBvUBI)
 - [Ticket Lock](https://kernel.googlesource.com/pub/scm/linux/kernel/git/cmarinas/kernel-tla/+/master/ticketlock.tla) и [другие ядерные спеки](https://kernel.googlesource.com/pub/scm/linux/kernel/git/cmarinas/kernel-tla/+/master/), [доклад](https://linuxplumbersconf.org/event/2/contributions/60/)
