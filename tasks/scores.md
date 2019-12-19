@@ -1,9 +1,9 @@
 Задача | Балл
  ---- |------
 `abd-truetime` | 0.5
-`raft-safety` | 0.75
+`raft-safety` | 1
 `rsm-exactly-once` | 0.75
-`timestamp-oracle` | 0.75
+`timestamp-oracle` | 1
 `tlaplus-abd` | 2
 `zookeeper-codewalk` | 2
 `paper-gfs` | 2
