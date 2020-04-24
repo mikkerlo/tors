@@ -87,6 +87,7 @@ pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - [Learn TLA+](https://learntla.com/introduction/)
 - [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus)
 - [TLA+ Google Group](https://groups.google.com/forum/#!forum/tlaplus)
+- https://github.com/lemmy/BlockingQueue
 - [Verdi: Formally Verifying Distributed Systems](http://verdi.uwplse.org/)
 
 ---
