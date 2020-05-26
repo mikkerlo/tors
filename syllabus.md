@@ -81,6 +81,8 @@ _\"The Paxos algorithm, when presented in plain English, is very simple.\"_ – 
 
 ## Formal Methods
 
+_\"Weeks of debugging can save you hours of TLA+\"_
+
 - Проблемы дизайна распределенных систем: псевдокод, дизайн доки, прототипы
 - Формальный дизайн, model checking
 - Структура Крипке и граф конфигураций из FLP теоремы
