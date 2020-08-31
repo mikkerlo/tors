@@ -66,6 +66,7 @@
 * [All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](https://www.usenix.org/node/186195)
 * [Files are hard](https://danluu.com/file-consistency/)
 * [Protocol-Aware Recovery for Consensus-Based Storage](https://www.usenix.org/conference/fast18/presentation/alagappan)
+* [Can Applications Recover from fsync Failures?](https://www.usenix.org/conference/atc20/presentation/rebello)
 
 ## Consensus as a Service – ZooKeeper
 * [The Chubby lock service for loosely-coupled distributed systems](https://ai.google/research/pubs/pub27897)
