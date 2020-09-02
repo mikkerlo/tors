@@ -9,6 +9,7 @@
 - [Relativistic Effects in the Global Positioning System](https://www.aapt.org/doorway/TGRU/articles/Ashbyarticle.pdf), [Why does GPS depend on relativity?](https://physics.stackexchange.com/a/128951), [GPS, Relativity, and
 pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - [Spanner, TrueTime and the CAP Theorem](https://ai.google/research/pubs/pub45855)
+- [Time, technology and leaping seconds](https://googleblog.blogspot.com/2011/09/time-technology-and-leaping-seconds.html), [Got a second? A leap second that is. Be ready for June 30th!](https://cloudplatform.googleblog.com/2015/05/Got-a-second-A-leap-second-that-is-Be-ready-for-June-30th.html), [Leap Smear](https://developers.google.com/time/smear)
 
 ## 2. Consistency Models, Replicated R/W Register
 
@@ -48,6 +49,7 @@ pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - RAFT: [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
 - VR: [Viewstamped Replication Revisited](http://pmg.csail.mit.edu/papers/vr-revisited.pdf)
 - [Vive La Difference: Paxos vs. Viewstamped Replication vs. Zab](https://arxiv.org/pdf/1309.5671.pdf)
+- [Paxos vs Raft: Have we reached consensus on distributed consensus?](https://arxiv.org/abs/2004.05074)
 
 ### RAFT
 
