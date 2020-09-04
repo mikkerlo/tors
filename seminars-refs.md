@@ -1,7 +1,7 @@
 # Семинары
 
 ## Time
-* [Falsehoods about Time](https://FalsehoodsAboutTime.com/)
+* [Falsehoods programmers believe about time](https://FalsehoodsAboutTime.com/)
 
 ## Network / Faults
 * [Primer on Latency and Bandwidth](https://hpbn.co/primer-on-latency-and-bandwidth/)
