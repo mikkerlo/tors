@@ -1,3 +1,4 @@
+- [Why do we need distributed systems?](https://brooker.co.za/blog/2020/01/02/why-distributed.html)
 - [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 
 # Лекции
@@ -84,6 +85,7 @@ pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - [TLA+ Home Page](https://lamport.azurewebsites.net/tla/tla.html)
 - [TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
 - [If You’re Not Writing a Program, Don’t Use a Programming Language](http://bulletin.eatcs.org/index.php/beatcs/article/view/539/532)
+- [Code Only Says What it Does](https://brooker.co.za/blog/2020/06/23/code.html)
 - [What Good is Temporal Logic?](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/What-Good-Is-Temporal-Logic.pdf)
 - [TLA+ In Practice and Theory](https://pron.github.io/posts/tlaplus_part1)
 - [Learn TLA+](https://learntla.com/introduction/)
