@@ -1,12 +1,16 @@
 # Семинары
 
+## Time
+* [Falsehoods about Time](https://FalsehoodsAboutTime.com/)
+
 ## Network / Faults
 * [Primer on Latency and Bandwidth](https://hpbn.co/primer-on-latency-and-bandwidth/)
 * [The Network is Reliable](https://blog.acolyer.org/2014/12/18/the-network-is-reliable/)
 * [Inside a Google data center](https://www.youtube.com/watch?v=XZmGGAbHqa0), [Google Data Center 360° Tour](https://www.youtube.com/watch?v=zDAYZU4A3w0)
 * [Google Cloud Infrastructure](https://cloud.withgoogle.com/infrastructure)
 * [Inside Google Network](https://www.youtube.com/watch?v=hMUHwMg2pow)
-* [Facebook Switching Fabric (2014)](https://engineering.fb.com/production-engineering/introducing-data-center-fabric-the-next-generation-facebook-data-center-network/)
+* [Facebook Switching Fabric (2014)](https://engineering.fb.com/production-engineering/introducing-data-center-fabric-the-next-generation-facebook-data-center-network/), [Reinventing Facebook’s data center network](https://engineering.fb.com/data-center-engineering/f16-minipack/)
+* [Google Cloud: Regions and Zones](https://cloud.google.com/compute/docs/regions-zones)
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
 ---
 * [What Can We Learn from Four Years of Data Center Hardware Failures?](https://pdfs.semanticscholar.org/e1ff/9a9441726e731d2fd8d5f8316f3a5da1ac68.pdf)
