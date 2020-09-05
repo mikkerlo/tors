@@ -7,6 +7,7 @@
 * [How and why the leap second affected Cloudflare DNS](https://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/)
 * Golang: [time: use monotonic clock to measure elapsed time](https://github.com/golang/go/issues/12914), [https://golang.org/pkg/time/](Time package)
 * [https://man7.org/linux/man-pages/man2/gettimeofday.2.html]
+* http://leapsecond.com/java/gpsclock.htm
 
 ## Network / Faults
 * [Primer on Latency and Bandwidth](https://hpbn.co/primer-on-latency-and-bandwidth/)
