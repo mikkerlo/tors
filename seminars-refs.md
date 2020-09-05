@@ -1,7 +1,7 @@
 # Семинары
 
 ## Time
-* [Falsehoods programmers believe about time](https://FalsehoodsAboutTime.com/)
+* [Falsehoods programmers believe about time](https://FalsehoodsAboutTime.com/), [reddit joke](https://www.reddit.com/r/programming/comments/v8s0y/falsehoods_programmers_believe_about_time/c52dreh/?utm_source=reddit&utm_medium=web2x&context=3)
 * [The origin of leap seconds](https://qz.com/432787/the-origin-of-leap-seconds-and-why-they-should-be-abolished/)
 * [Time, technology and leaping seconds](https://googleblog.blogspot.com/2011/09/time-technology-and-leaping-seconds.html), [Got a second? A leap second that is. Be ready for June 30th!](https://cloudplatform.googleblog.com/2015/05/Got-a-second-A-leap-second-that-is-Be-ready-for-June-30th.html), [Leap Smear](https://developers.google.com/time/smear)
 * [How and why the leap second affected Cloudflare DNS](https://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/)
