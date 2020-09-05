@@ -2,6 +2,8 @@
 
 ## Time
 * [Falsehoods programmers believe about time](https://FalsehoodsAboutTime.com/)
+* [Time, technology and leaping seconds](https://googleblog.blogspot.com/2011/09/time-technology-and-leaping-seconds.html), [Got a second? A leap second that is. Be ready for June 30th!](https://cloudplatform.googleblog.com/2015/05/Got-a-second-A-leap-second-that-is-Be-ready-for-June-30th.html), [Leap Smear](https://developers.google.com/time/smear)
+* [How and why the leap second affected Cloudflare DNS](https://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/)
 
 ## Network / Faults
 * [Primer on Latency and Bandwidth](https://hpbn.co/primer-on-latency-and-bandwidth/)
