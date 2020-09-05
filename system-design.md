@@ -5,7 +5,7 @@
 
 - [Linkedin Ambry](https://github.com/linkedin/ambry/wiki)
 - [Apache Kafka Design](https://kafka.apache.org/documentation/#design)
-- [LogDevice: a distributed data store for logs](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
+- [LogDevice: a distributed data store for logs](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/), [Architecture](https://logdevice.io/docs/Concepts.html)
 - [CocroachDB Architecture](https://www.cockroachlabs.com/docs/stable/architecture/overview.html), [CockroachDB: The Resilient Geo-Distributed SQL Database](https://www.cockroachlabs.com/guides/cockroachdb-the-resilient-geo-distributed-sql-database-sigmod-2020/)
 - [TiKV Deep Dive](https://tikv.org/deep-dive/rpc/introduction/), [TiDB: A Raft-based HTAP Database](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 - [Consul Architecture](https://www.consul.io/docs/internals/architecture.html)
