@@ -4,6 +4,7 @@
 * [Falsehoods programmers believe about time](https://FalsehoodsAboutTime.com/)
 * [Time, technology and leaping seconds](https://googleblog.blogspot.com/2011/09/time-technology-and-leaping-seconds.html), [Got a second? A leap second that is. Be ready for June 30th!](https://cloudplatform.googleblog.com/2015/05/Got-a-second-A-leap-second-that-is-Be-ready-for-June-30th.html), [Leap Smear](https://developers.google.com/time/smear)
 * [How and why the leap second affected Cloudflare DNS](https://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/)
+* Golang: [time: use monotonic clock to measure elapsed time](https://github.com/golang/go/issues/12914), [https://golang.org/pkg/time/](Time package)
 
 ## Network / Faults
 * [Primer on Latency and Bandwidth](https://hpbn.co/primer-on-latency-and-bandwidth/)
@@ -11,7 +12,7 @@
 * [Inside a Google data center](https://www.youtube.com/watch?v=XZmGGAbHqa0), [Google Data Center 360° Tour](https://www.youtube.com/watch?v=zDAYZU4A3w0)
 * [Google Cloud Infrastructure](https://cloud.withgoogle.com/infrastructure)
 * [Inside Google Network](https://www.youtube.com/watch?v=hMUHwMg2pow)
-* [Facebook Switching Fabric (2014)](https://engineering.fb.com/production-engineering/introducing-data-center-fabric-the-next-generation-facebook-data-center-network/), [Reinventing Facebook’s data center network](https://engineering.fb.com/data-center-engineering/f16-minipack/)
+* [Facebook Switching Fabric (2014)](https://engineering.fb.com/production-engineering/introducing-data-center-fabric-the-next-generation-facebook-data-center-network/), [video](https://www.youtube.com/watch?v=mLEawo6OzFM), [Reinventing Facebook’s data center network](https://engineering.fb.com/data-center-engineering/f16-minipack/)
 * [Google Cloud: Regions and Zones](https://cloud.google.com/compute/docs/regions-zones)
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
 ---
