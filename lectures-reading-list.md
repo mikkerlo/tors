@@ -13,7 +13,7 @@
 ## 2. Consistency Models, Replicated R/W Register
 
 - [Consistency Models](https://jepsen.io/consistency), [Linearizability](https://jepsen.io/consistency/models/linearizable)
-- [Google Spanner / TrueTime and External Consistency](https://cloud.google.com/spanner/docs/true-time-external-consistency)
+- [Cloud Spanner: TrueTime and External Consistency](https://cloud.google.com/spanner/docs/true-time-external-consistency)
 - [Notes on Theory of Distributed Computing](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf), глава 16
 
 ## 3. Replication, Atomic Broadcast and Consensus
