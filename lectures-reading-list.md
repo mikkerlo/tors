@@ -77,6 +77,7 @@
 - [Google SRE Book / Managing Critical State: Distributed Consensus for Reliability](https://landing.google.com/sre/book/chapters/managing-critical-state.html)
 - [Consensus: Bridging Theory and Practice](https://github.com/ongardie/dissertation/blob/master/book.pdf?raw=true)
 - [ZooKeeper Internals](https://www.oreilly.com/library/view/zookeeper/9781449361297/ch09.html)
+- [Millions of Tiny Databases](https://www.usenix.org/conference/nsdi20/presentation/brooker)
 - [Linearizable Quorum Reads in Paxos](https://www.usenix.org/conference/hotstorage19/presentation/charapko)
 
 ## 8-9. Formal Methods, TLA+
