@@ -5,7 +5,7 @@
 * [The origin of leap seconds](https://qz.com/432787/the-origin-of-leap-seconds-and-why-they-should-be-abolished/)
 * [Time, technology and leaping seconds](https://googleblog.blogspot.com/2011/09/time-technology-and-leaping-seconds.html), [Got a second? A leap second that is. Be ready for June 30th!](https://cloudplatform.googleblog.com/2015/05/Got-a-second-A-leap-second-that-is-Be-ready-for-June-30th.html), [Leap Smear](https://developers.google.com/time/smear)
 * [How and why the leap second affected Cloudflare DNS](https://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/)
-* Golang: [time: use monotonic clock to measure elapsed time](https://github.com/golang/go/issues/12914), [https://golang.org/pkg/time/](Time package)
+* Golang: [time: use monotonic clock to measure elapsed time](https://github.com/golang/go/issues/12914), [Time package](https://golang.org/pkg/time/)
 * [https://man7.org/linux/man-pages/man2/gettimeofday.2.html]
 * http://leapsecond.com/java/gpsclock.htm
 
