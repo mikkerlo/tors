@@ -20,6 +20,8 @@
 
 ## State Machine Replication, Atomic Broadcast, Consensus
 
+\"_There are only two hard problems in distributed systems:  2. Exactly-once delivery 1. Guaranteed order of messages 2. Exactly-once delivery_\"
+
 - Atomic (Totally Ordered) Broadcast и его свойства
 - AB как транспорт команд, общая схема линеаризуемой репликации произовольного автомата
 - Доказательство линеаризуемости
