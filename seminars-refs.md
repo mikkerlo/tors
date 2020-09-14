@@ -37,6 +37,7 @@
 * [Flash-Based SSDs](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf), [What every programmer should know about solid-state drives](http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/),  [SSDs and Distributed Data Systems](https://blog.empathybox.com/post/24415262152/ssds-and-distributed-data-systems) 
 * [A Brief History of Log Structured Merge Trees](https://ristret.com/s/gnd4yr/brief_history_log_structured_merge_trees)
 * [Why we built CockroachDB on top of RocksDB](https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/), [TiKV / RocksDB](https://tikv.github.io/deep-dive-tikv/key-value-engine/rocksdb.html)
+* [Read, write and space amplification in B/LSM trees](http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-b-tree.html)
 
 ## Distributed File System
 * [The Google File System](https://ai.google/research/pubs/pub51)
