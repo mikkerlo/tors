@@ -35,6 +35,7 @@
 * [Database Internals Series on Disk I/O](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017])
 * [TiKV Internals: B-Tree vs Log-Structured Merge-Tree](https://tikv.github.io/deep-dive-tikv/key-value-engine/B-Tree-vs-Log-Structured-Merge-Tree.html)
 * [LevelDB](https://github.com/google/leveldb), [RocksDB](https://github.com/facebook/rocksdb/wiki)
+* [Skip Lists](https://jeffe.cs.illinois.edu/teaching/algorithms/notes/03-treaps.pdf), [LevelDB Impl](https://github.com/google/leveldb/blob/master/db/skiplist.h)
 * [Leveled Compaction in RocksDB](https://github.com/facebook/rocksdb/wiki/Leveled-Compaction), [Dynamic Level Size for Level-Based Compaction](https://rocksdb.org/blog/2015/07/23/dynamic-level.html)
 * [RUM Conjecture](http://daslab.seas.harvard.edu/rum-conjecture/)
 * [Hard disk drives](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf), [Discovering Hard Disk Physical Geometry through Microbenchmarking](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
