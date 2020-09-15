@@ -16,8 +16,11 @@
 * [Google Cloud Infrastructure](https://cloud.withgoogle.com/infrastructure)
 * [Inside Google Network](https://www.youtube.com/watch?v=hMUHwMg2pow)
 * [Facebook Switching Fabric (2014)](https://engineering.fb.com/production-engineering/introducing-data-center-fabric-the-next-generation-facebook-data-center-network/), [video](https://www.youtube.com/watch?v=mLEawo6OzFM), [Reinventing Facebook’s data center network](https://engineering.fb.com/data-center-engineering/f16-minipack/)
+* [Яндекс / Дата-центры](https://yandex.ru/company/technologies/datacenter)
 * [Google Cloud: Regions and Zones](https://cloud.google.com/compute/docs/regions-zones)
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
+* [Почему рвутся сети](https://habr.com/ru/company/nag/blog/374427/)
+
 ---
 * [What Can We Learn from Four Years of Data Center Hardware Failures?](https://pdfs.semanticscholar.org/e1ff/9a9441726e731d2fd8d5f8316f3a5da1ac68.pdf)
 
