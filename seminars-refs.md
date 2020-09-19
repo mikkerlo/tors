@@ -31,6 +31,12 @@
 * [Introduction to Computer Networks / TCP Transport](http://intronetworks.cs.luc.edu/current/html/tcp.html)
 
 ## Local Storage
+
+* [Hard disk drives](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf), [Discovering Hard Disk Physical Geometry through Microbenchmarking](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/), [Shouting in the Datacenter](https://www.youtube.com/watch?v=tDacjrSCeq4)
+* [Flash-Based SSDs](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf), [What every programmer should know about solid-state drives](http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/),  [SSDs and Distributed Data Systems](https://blog.empathybox.com/post/24415262152/ssds-and-distributed-data-systems) 
+
+---
+
 * [Algoritms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
 * [Database Internals Series on Disk I/O](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017])
 * [TiKV Internals: B-Tree vs Log-Structured Merge-Tree](https://tikv.github.io/deep-dive-tikv/key-value-engine/B-Tree-vs-Log-Structured-Merge-Tree.html)
@@ -38,8 +44,6 @@
 * [Skip Lists](https://jeffe.cs.illinois.edu/teaching/algorithms/notes/03-treaps.pdf), [LevelDB SkipList Impl](https://github.com/google/leveldb/blob/master/db/skiplist.h)
 * [Leveled Compaction in RocksDB](https://github.com/facebook/rocksdb/wiki/Leveled-Compaction), [Dynamic Level Size for Level-Based Compaction](https://rocksdb.org/blog/2015/07/23/dynamic-level.html)
 * [RUM Conjecture](http://daslab.seas.harvard.edu/rum-conjecture/)
-* [Hard disk drives](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf), [Discovering Hard Disk Physical Geometry through Microbenchmarking](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
-* [Flash-Based SSDs](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf), [What every programmer should know about solid-state drives](http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/),  [SSDs and Distributed Data Systems](https://blog.empathybox.com/post/24415262152/ssds-and-distributed-data-systems) 
 * [A Brief History of Log Structured Merge Trees](https://ristret.com/s/gnd4yr/brief_history_log_structured_merge_trees)
 * [Why we built CockroachDB on top of RocksDB](https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/), [TiKV / RocksDB](https://tikv.github.io/deep-dive-tikv/key-value-engine/rocksdb.html)
 * [Read, write and space amplification in B/LSM trees](http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-b-tree.html)
