@@ -173,3 +173,8 @@
 - [Zerocoin: Anonymous Distributed E-Cash from Bitcoin](http://zerocoin.org/media/pdf/ZerocoinOakland.pdf)
 - [Zerocoin: making Bitcoin anonymous](https://blog.cryptographyengineering.com/2013/04/11/zerocoin-making-bitcoin-anonymous/)
 - [Доклад про Zerocoin](https://www.youtube.com/watch?v=4uWlqPIb1zw)
+
+## 14. HotStuff
+
+- [HotStu: BFT Consensus in the Lens of Blockchain](https://arxiv.org/pdf/1803.05069.pdf)
+- [State Machine Replication in the Libra Blockchain](https://developers.libra.org/docs/state-machine-replication-paper)
