@@ -30,6 +30,12 @@
 - [docs/design.md](https://github.com/cockroachdb/cockroach/blob/master/docs/design.md)
 - [Blog / Engineering](https://www.cockroachlabs.com/blog/engineering/)
 
+## ZooKeeper
+
+- [Overview](https://zookeeper.apache.org/doc/current/zookeeperOver.html)
+- [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/events/atc10/tech/full_papers/Hunt.pdf)
+- [Zab: High-performance broadcast for primary-backup systems](https://marcoserafini.github.io/papers/zab.pdf)
+
 ## [Facebook] LogDevice
 
 - [LogDevice: a distributed data store for logs](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
