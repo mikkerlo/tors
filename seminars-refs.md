@@ -45,7 +45,7 @@
 * [Leveled Compaction in RocksDB](https://github.com/facebook/rocksdb/wiki/Leveled-Compaction), [Dynamic Level Size for Level-Based Compaction](https://rocksdb.org/blog/2015/07/23/dynamic-level.html)
 * [RUM Conjecture](http://daslab.seas.harvard.edu/rum-conjecture/)
 * [A Brief History of Log Structured Merge Trees](https://ristret.com/s/gnd4yr/brief_history_log_structured_merge_trees)
-* [Why we built CockroachDB on top of RocksDB](https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/), [TiKV / RocksDB](https://tikv.github.io/deep-dive-tikv/key-value-engine/rocksdb.html)
+* [Why we built CockroachDB on top of RocksDB](https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/), [RocksDB in TiKV](https://medium.com/@PingCAP/rocksdb-in-tikv-34ece9bb4dc)
 * [Read, write and space amplification in B/LSM trees](http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-b-tree.html)
 
 ## Distributed File System
