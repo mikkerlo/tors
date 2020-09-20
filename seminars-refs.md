@@ -49,6 +49,12 @@
 * [Read, write and space amplification in B/LSM trees](http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-b-tree.html)
 
 ## Distributed File System
+
+* [xv6 Book](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf), chapter 6
+* https://github.com/yarrick/pingfs
+
+---
+
 * [The Google File System](https://ai.google/research/pubs/pub51)
 * [GFS: Evolution on Fast-forward](https://queue.acm.org/detail.cfm?id=1594206)
 * [Cluster-Level Storage @ Google](http://www.pdsw.org/pdsw-discs17/slides/PDSW-DISCS-Google-Keynote.pdf)
