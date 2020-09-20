@@ -3,14 +3,14 @@
 
 # Лекции
 
-## 1. Time
+## 1. Model / Time
 
 - [Understanding GPS: Principles and Applications](http://d1.amobbs.com/bbs_upload782111/files_33/ourdev_584835O21W59.pdf)
 - [Time, Clocks and GPS](http://www2.unb.ca/gge/Resources/gpsworld.nov-dec91.corr.pdf)
 - [Relativistic Effects in the Global Positioning System](https://www.aapt.org/doorway/TGRU/articles/Ashbyarticle.pdf), [Why does GPS depend on relativity?](https://physics.stackexchange.com/a/128951), [GPS, Relativity, and pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - [Spanner, TrueTime and the CAP Theorem](https://ai.google/research/pubs/pub45855)
 
-## 2. Consistency Models, Replicated R/W Register
+## 2. Consistency Models, Replicated R/W Register (ABD)
 
 - [Consistency Models](https://jepsen.io/consistency), [Linearizability](https://jepsen.io/consistency/models/linearizable)
 - [Cloud Spanner: TrueTime and External Consistency](https://cloud.google.com/spanner/docs/true-time-external-consistency)
@@ -80,7 +80,15 @@
 - [Millions of Tiny Databases](https://www.usenix.org/conference/nsdi20/presentation/brooker)
 - [Linearizable Quorum Reads in Paxos](https://www.usenix.org/conference/hotstorage19/presentation/charapko)
 
-## 8-9. Formal Methods, TLA+
+## 8. Distributed Transactions
+
+- [How CockroachDB Does Distributed, Atomic Transactions](https://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/)
+- [Transactions in Apache Kafka](https://www.confluent.io/blog/transactions-apache-kafka/)
+- [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://research.google/pubs/pub36726/)
+- [Spanner: Google’s Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+- [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
+
+## 9. Formal Methods, TLA+
 
 - [TLA+ Home Page](https://lamport.azurewebsites.net/tla/tla.html)
 - [TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
