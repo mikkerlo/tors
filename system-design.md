@@ -10,5 +10,5 @@
 - [TiKV Deep Dive](https://tikv.org/deep-dive/rpc/introduction/), [TiDB: A Raft-based HTAP Database](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 - [Consul Architecture](https://www.consul.io/docs/internals/architecture.html)
 - [FaunaDB Architectural Overview](https://fauna-assets.s3.amazonaws.com/public/FaunaDB-Technical-Whitepaper.pdf)
-- [Yandex DB](https://www.youtube.com/watch?v=FwLvAuOSIOU)
+- [Yandex Database: база данных newSQL](https://www.youtube.com/watch?v=FwLvAuOSIOU), [Yandex Database – как мы обеспечиваем отказоустойчивость](https://www.youtube.com/watch?v=dCpfGJ35kK8)
 - [YT: зачем Яндексу своя MapReduce-система и как она устроена](https://habr.com/ru/company/yandex/blog/311104/), [YT — эволюция MapReduce-системы Яндекса](https://www.youtube.com/watch?v=VQGfH0sZi18)
