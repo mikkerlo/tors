@@ -82,16 +82,13 @@
 
 ## 8. Distributed Transactions
 
-
-
----
-
 - [How CockroachDB Does Distributed, Atomic Transactions](https://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/)
 - [Transactions in Apache Kafka](https://www.confluent.io/blog/transactions-apache-kafka/)
 - [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://research.google/pubs/pub36726/)
 - [Spanner: Google’s Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 - [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 - [Spanner vs. Calvin: Distributed Consistency at Scale](https://fauna.com/blog/distributed-consistency-at-scale-spanner-vs-calvin)
+- [An Overview of Deterministic Database Systems](http://www.cs.umd.edu/~abadi/papers/abadi-cacm2018.pdf)
 
 ## 9. Formal Methods, TLA+
 
