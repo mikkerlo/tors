@@ -1,4 +1,3 @@
-
 ## [Google] GFS / Colossus
 
 - [The Google File System](https://research.google/pubs/pub51/)
@@ -22,6 +21,7 @@
 - [Spanner, TrueTime and the CAP Theorem](https://research.google/pubs/pub45855/)
 - [Life of Cloud Spanner Reads & Writes](https://cloud.google.com/spanner/docs/whitepapers/life-of-reads-and-writes)
 - [Spanner: Google's Globally-Distributed Database - OSDI 2012](https://www.youtube.com/watch?v=NthK17nbpYs)
+- [Spanner Internals Part 1: What Makes Spanner Tick?](youtube.com/watch?v=nvlt0dA7rsQ)
 
 ## CocroachDB
 
@@ -58,11 +58,11 @@
 - [Amazon Aurora: On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes](https://dl.acm.org/citation.cfm?id=3183713.3196937)
 - [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://dl.acm.org/doi/10.1145/3035918.3056101)
 
+## TiKV / TiDB
+
+- [TiKV Deep Dive](https://tikv.org/deep-dive/rpc/introduction/)
+- [TiDB: A Raft-based HTAP Database](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
+
 ## Other
 
-- [Linkedin Ambry](https://github.com/linkedin/ambry/wiki)
-- [Apache Kafka Design](https://kafka.apache.org/documentation/#design)
-- [TiKV Deep Dive](https://tikv.org/deep-dive/rpc/introduction/), [TiDB: A Raft-based HTAP Database](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
-- [Consul Architecture](https://www.consul.io/docs/internals/architecture.html)
 - [FaunaDB Architectural Overview](https://fauna-assets.s3.amazonaws.com/public/FaunaDB-Technical-Whitepaper.pdf)
-, 
