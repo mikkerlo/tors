@@ -20,7 +20,7 @@
 - [Spanner: Becoming a SQL System](https://research.google/pubs/pub46103/)
 - [Spanner, TrueTime and the CAP Theorem](https://research.google/pubs/pub45855/)
 - [Life of Cloud Spanner Reads & Writes](https://cloud.google.com/spanner/docs/whitepapers/life-of-reads-and-writes)
-- [Spanner: Google's Globally-Distributed Database - OSDI 2012](https://www.youtube.com/watch?v=NthK17nbpYs)
+- [Spanner: Google's Globally-Distributed Database - OSDI 2012](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)
 - [Spanner Internals Part 1: What Makes Spanner Tick?](youtube.com/watch?v=nvlt0dA7rsQ)
 - https://spanner.fyi/
 
