@@ -66,7 +66,7 @@
 
 ## TiKV / TiDB
 
-- [TiKV Deep Dive](https://tikv.org/deep-dive/rpc/introduction/)
+- [TiKV Deep Dive](https://tikv.org/deep-dive/introduction/)
 - [TiDB: A Raft-based HTAP Database](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 
 ## Other
