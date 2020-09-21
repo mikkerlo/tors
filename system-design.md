@@ -31,7 +31,7 @@
 - [docs/design.md](https://github.com/cockroachdb/cockroach/blob/master/docs/design.md)
 - [Blog / Engineering](https://www.cockroachlabs.com/blog/engineering/)
 
-## ZooKeeper
+## [Apache] ZooKeeper
 
 - [Overview](https://zookeeper.apache.org/doc/current/zookeeperOver.html)
 - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/events/atc10/tech/full_papers/Hunt.pdf)
@@ -50,6 +50,16 @@
 - [Exactly-Once Semantics Are Possible: Here’s How Kafka Does It](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 - [Apache Kafka Needs No Keeper: Removing the Apache ZooKeeper Dependency](https://www.confluent.io/blog/removing-zookeeper-dependency-in-kafka/)
 
+## [Amazon] Aurora
+
+- [Amazon Aurora: On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes](https://dl.acm.org/citation.cfm?id=3183713.3196937)
+- [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://dl.acm.org/doi/10.1145/3035918.3056101)
+
+## TiKV / TiDB
+
+- [TiKV Deep Dive](https://tikv.org/deep-dive/introduction/)
+- [TiDB: A Raft-based HTAP Database](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
+
 ## [Yandex] Yandex DB
 
 - [Yandex Database: база данных newSQL](https://www.youtube.com/watch?v=FwLvAuOSIOU)
@@ -60,16 +70,6 @@
 
 - [YT: зачем Яндексу своя MapReduce-система и как она устроена](https://habr.com/ru/company/yandex/blog/311104/)
 - [YT — эволюция MapReduce-системы Яндекса](https://www.youtube.com/watch?v=VQGfH0sZi18)
-
-## [Amazon] Aurora
-
-- [Amazon Aurora: On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes](https://dl.acm.org/citation.cfm?id=3183713.3196937)
-- [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://dl.acm.org/doi/10.1145/3035918.3056101)
-
-## TiKV / TiDB
-
-- [TiKV Deep Dive](https://tikv.org/deep-dive/introduction/)
-- [TiDB: A Raft-based HTAP Database](http://www.vldb.org/pvldb/vol13/p3072-huang.pdf)
 
 ## Other
 
