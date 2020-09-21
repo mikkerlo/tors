@@ -45,6 +45,7 @@
 ## [Apache] Kafka
 
 - [Documentation / Design](https://kafka.apache.org/documentation/#design)
+- [Distributed Consensus Reloaded: Apache ZooKeeper and Replication in Apache Kafka](https://www.confluent.io/blog/distributed-consensus-reloaded-apache-zookeeper-and-replication-in-kafka/)
 - [Transactions in Apache Kafka](https://www.confluent.io/blog/transactions-apache-kafka/)
 - [Exactly-Once Semantics Are Possible: Here’s How Kafka Does It](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 - [Apache Kafka Needs No Keeper: Removing the Apache ZooKeeper Dependency](https://www.confluent.io/blog/removing-zookeeper-dependency-in-kafka/)
