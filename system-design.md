@@ -1,9 +1,3 @@
-## [Google] GFS / Colossus
-
-- [The Google File System](https://research.google/pubs/pub51/)
-- [GFS: Evolution on Fast-forward](https://queue.acm.org/detail.cfm?id=1594206)
-- [Cluster-Level Storage @ Google](http://www.pdsw.org/pdsw-discs17/slides/PDSW-DISCS-Google-Keynote.pdf)
-
 ## [Google]
 
 - [Building Large-Scale Internet Services @ Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44877.pdf)
@@ -13,6 +7,12 @@
 - [The Chubby lock service for loosely-coupled distributed systems](https://ai.google/research/pubs/pub27897)
 - [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://ai.google/research/pubs/pub36726)
 - [Spanner: Google's Globally-Distributed Database](https://ai.google/research/pubs/pub39966)
+
+## [Google] GFS / Colossus
+
+- [The Google File System](https://research.google/pubs/pub51/)
+- [GFS: Evolution on Fast-forward](https://queue.acm.org/detail.cfm?id=1594206)
+- [Cluster-Level Storage @ Google](http://www.pdsw.org/pdsw-discs17/slides/PDSW-DISCS-Google-Keynote.pdf)
 
 ## [Google] Spanner
 
