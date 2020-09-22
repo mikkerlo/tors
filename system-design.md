@@ -21,6 +21,11 @@
 - [GFS: Evolution on Fast-forward](https://queue.acm.org/detail.cfm?id=1594206)
 - [Cluster-Level Storage @ Google](http://www.pdsw.org/pdsw-discs17/slides/PDSW-DISCS-Google-Keynote.pdf)
 
+## [Google] Bigtable
+
+- [Bigtable: A Distributed Storage System for Structured Data](https://ai.google/research/pubs/pub27898)
+- [Overview of Cloud Bigtable](https://cloud.google.com/bigtable/docs/overview)
+
 ## [Google] Spanner
 
 - [Spanner: Google's Globally-Distributed Database](https://research.google/pubs/pub39966/)
