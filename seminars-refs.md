@@ -41,7 +41,7 @@
 * [Database Internals Series on Disk I/O](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017])
 * [TiKV Internals: B-Tree vs Log-Structured Merge-Tree](https://tikv.github.io/deep-dive-tikv/key-value-engine/B-Tree-vs-Log-Structured-Merge-Tree.html)
 * [LevelDB](https://github.com/google/leveldb), [RocksDB](https://github.com/facebook/rocksdb/wiki)
-* [Skip Lists](https://jeffe.cs.illinois.edu/teaching/algorithms/notes/03-treaps.pdf), [LevelDB SkipList Impl](https://github.com/google/leveldb/blob/master/db/skiplist.h)
+* [Skip Lists](https://jeffe.cs.illinois.edu/teaching/algorithms/notes/03-treaps.pdf), [LevelDB SkipList Impl](https://github.com/google/leveldb/blob/master/db/skiplist.h), [Single Writer Principle](https://mechanical-sympathy.blogspot.com/2011/09/single-writer-principle.html)
 * [Leveled Compaction in RocksDB](https://github.com/facebook/rocksdb/wiki/Leveled-Compaction), [Dynamic Level Size for Level-Based Compaction](https://rocksdb.org/blog/2015/07/23/dynamic-level.html)
 * [RUM Conjecture](http://daslab.seas.harvard.edu/rum-conjecture/)
 * [A Brief History of Log Structured Merge Trees](https://ristret.com/s/gnd4yr/brief_history_log_structured_merge_trees)
