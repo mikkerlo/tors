@@ -97,7 +97,7 @@
 ## Crash Recovery, File Systems
 * [xv6 Book](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf), chapter 6
 * [All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](https://www.usenix.org/node/186195)
-* [Files are hard](https://danluu.com/file-consistency/)
+* Dan Luu: [Files are hard](https://danluu.com/file-consistency/), [Files](https://www.deconstructconf.com/2019/dan-luu-files)
 * [Protocol-Aware Recovery for Consensus-Based Storage](https://www.usenix.org/conference/fast18/presentation/alagappan)
 * [Can Applications Recover from fsync Failures?](https://www.usenix.org/conference/atc20/presentation/rebello)
 
