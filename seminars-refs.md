@@ -62,6 +62,11 @@
 * [HDFS Architecture](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html) 
 * [Лекция про HDFS](https://www.youtube.com/watch?v=IHVIFVZeXcA)
 
+## Persistent disks
+
+* [Yandex Database: сетевое блочное устройство](https://m.youtube.com/watch?v=qcZLUYgty2M)
+* [Google Cloud: Persistent Disks and Replication](https://medium.com/google-cloud/persistent-disks-and-replication-9b9412fd9565)
+
 ## Asynchrony 
 * [epoll - I/O event notification facility](http://man7.org/linux/man-pages/man7/epoll.7.html)
 * [Реактивный эхо-сервер на libuv](https://github.com/libuv/libuv/blob/v1.x/docs/code/tcp-echo-server/main.c)
