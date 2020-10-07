@@ -84,6 +84,12 @@
 * [Асинхронность: назад в будущее](https://habr.com/ru/post/201826/)
 * [Echo server in Go](https://github.com/golergka/go-tcp-echo/blob/master/go-tcp-echo.go)
 
+## Simulation
+
+* [Teaching Rigorous Distributed Systems With Efficient Model Checking](https://homes.cs.washington.edu/~mernst/pubs/dslabs-eurosys2019-abstract.html)
+* [Millions of Tiny Databases](https://www.usenix.org/conference/nsdi20/presentation/brooker)
+* [Testing Distributed Systems w/ Deterministic Simulation](https://www.youtube.com/watch?v=4fFDFbi3toc)
+
 ## Erasure Codes
 * [Erasure Coding in Windows Azure Storage](https://www.usenix.org/conference/atc12/technical-sessions/presentation/huang)
 * [Коды избыточности в Яндекс](https://habr.com/ru/company/yandex/blog/311806/)
