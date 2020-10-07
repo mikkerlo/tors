@@ -90,6 +90,11 @@
 * [Millions of Tiny Databases](https://www.usenix.org/conference/nsdi20/presentation/brooker)
 * [Testing Distributed Systems w/ Deterministic Simulation](https://www.youtube.com/watch?v=4fFDFbi3toc)
 
+## RPC
+
+* [RPC is Not Dead: Rise, Fall and the Rise of Remote Procedure Calls](http://dist-prog-book.com/chapter/1/rpc.html)
+* [Cap'n Proto: RPC Protocol](https://capnproto.org/rpc.html)
+
 ## Erasure Codes
 * [Erasure Coding in Windows Azure Storage](https://www.usenix.org/conference/atc12/technical-sessions/presentation/huang)
 * [Коды избыточности в Яндекс](https://habr.com/ru/company/yandex/blog/311806/)
