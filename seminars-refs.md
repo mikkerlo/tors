@@ -95,6 +95,11 @@
 * [RPC is Not Dead: Rise, Fall and the Rise of Remote Procedure Calls](http://dist-prog-book.com/chapter/1/rpc.html)
 * [Cap'n Proto: RPC Protocol](https://capnproto.org/rpc.html)
 
+### gRPC
+- [gRPC Motivation and Design Principles](https://grpc.io/blog/principles/)
+- [Core concepts, architecture and lifecycle](https://grpc.io/docs/what-is-grpc/core-concepts/)
+- [gRPC Design and Implementation](https://platformlab.stanford.edu/Seminar%20Talks/gRPC.pdf)
+
 ## Erasure Codes
 * [Erasure Coding in Windows Azure Storage](https://www.usenix.org/conference/atc12/technical-sessions/presentation/huang)
 * [Коды избыточности в Яндекс](https://habr.com/ru/company/yandex/blog/311806/)
