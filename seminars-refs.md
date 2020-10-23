@@ -99,6 +99,7 @@
 - [gRPC Motivation and Design Principles](https://grpc.io/blog/principles/)
 - [Core concepts, architecture and lifecycle](https://grpc.io/docs/what-is-grpc/core-concepts/)
 - [gRPC Design and Implementation](https://platformlab.stanford.edu/Seminar%20Talks/gRPC.pdf)
+- [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2), [gRPC on HTTP/2 Engineering a Robust, High-performance Protocol](https://grpc.io/blog/grpc-on-http2/)
 
 ## Erasure Codes
 * [Erasure Coding in Windows Azure Storage](https://www.usenix.org/conference/atc12/technical-sessions/presentation/huang)
