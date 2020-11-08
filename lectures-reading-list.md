@@ -85,10 +85,11 @@
 - [How CockroachDB Does Distributed, Atomic Transactions](https://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/)
 - [Transactions in Apache Kafka](https://www.confluent.io/blog/transactions-apache-kafka/)
 - [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://research.google/pubs/pub36726/)
-- [Spanner: Google’s Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf), [Cloud Spanner: Transactions](https://cloud.google.com/spanner/docs/transactions)
+- [Spanner: Google’s Globally-Distributed Database](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett), [Cloud Spanner: Transactions](https://cloud.google.com/spanner/docs/transactions)
 - [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
-- [Spanner vs. Calvin: Distributed Consistency at Scale](https://fauna.com/blog/distributed-consistency-at-scale-spanner-vs-calvin)
+- [Spanner vs. Calvin: Distributed Consistency at Scale](https://fauna.com/blog/distributed-consistency-at-scale-spanner-vs-calvin), [Spanner vs. Calvin - Comparing consensus protocols in strongly consistent database systems](https://www.youtube.com/watch?v=5CKb8hmh9KU)
 - [An Overview of Deterministic Database Systems](http://www.cs.umd.edu/~abadi/papers/abadi-cacm2018.pdf)
+- [Comparing Distributed Transaction Architectures for the Cloud Era](https://www.youtube.com/watch?v=w_zYYF3-iSo) / Kyle Kingsbury
 
 ## 9. Formal Methods, TLA+
 
