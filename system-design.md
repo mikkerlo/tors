@@ -76,7 +76,7 @@
 
 - [Yandex Database: база данных newSQL](https://www.youtube.com/watch?v=FwLvAuOSIOU)
 - [Yandex Database – как мы обеспечиваем отказоустойчивость](https://www.youtube.com/watch?v=_7FAeeWAhT4)
-- [Распределенные транзакции в Yandex Database](https://www.youtube.com/watch?v=85GIFpG3zx4)
+- [Распределенные транзакции в Yandex Database](https://www.highload.ru/moscow/2019/abstracts/5324)
 
 ## [Yandex] YT
 
