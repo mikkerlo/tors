@@ -177,5 +177,5 @@
 
 ## 14. HotStuff
 
-- [HotStu: BFT Consensus in the Lens of Blockchain](https://arxiv.org/pdf/1803.05069.pdf)
+- [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/pdf/1803.05069.pdf)
 - [State Machine Replication in the Libra Blockchain](https://developers.libra.org/docs/state-machine-replication-paper)
