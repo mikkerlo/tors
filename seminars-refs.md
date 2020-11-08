@@ -88,7 +88,7 @@
 
 * [Teaching Rigorous Distributed Systems With Efficient Model Checking](https://homes.cs.washington.edu/~mernst/pubs/dslabs-eurosys2019-abstract.html)
 * [Millions of Tiny Databases](https://www.usenix.org/conference/nsdi20/presentation/brooker)
-* [Testing Distributed Systems w/ Deterministic Simulation](https://www.youtube.com/watch?v=4fFDFbi3toc)
+* [Testing Distributed Systems w/ Deterministic Simulation](https://www.youtube.com/watch?v=4fFDFbi3toc), [FoundationDB or: How I Learned to Stop Worrying and Trust the Database](https://www.youtube.com/watch?v=OJb8A6h9jQQ&list=PLSE8ODhjZXjagqlf1NxuBQwaMkrHXi-iz&index=22)
 
 ## RPC
 
