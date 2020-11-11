@@ -1,4 +1,7 @@
 ## Модель, Время
+
+_\"All models are wrong, but some are useful\"_
+
 - Модель распределенной системы, асинхронность узлов и сети
 - Кварцевые и атомные часы, дрейф часов, значения ppm для разных типов часов
 - Невозможность синхронизации часов без дрейфа в синхронной системе, невозможность обнаружить асимметрию
@@ -66,6 +69,8 @@ _\"The Paxos algorithm, when presented in plain English, is very simple.\"_ – 
 
 ## Paxos Made Live
 
+_\"In Theory There Is No Difference Between Theory and Practice, While In Practice There Is.\"_
+
 - Выбор числа реплик
 - Failure Domains, tradeoff между отказоустойчивостью и латентностью
 - Переконфигурации: остановка RSM, наивный подход, служебная команда в реплицируемом логе, alpha-метод Лэмпорта в MultiPaxos
@@ -77,9 +82,14 @@ _\"The Paxos algorithm, when presented in plain English, is very simple.\"_ – 
 
 ## Distributed Transactions
 
-- Snapshot isolation, аномалия write skew
-- Реализация на стороне клиента на примере BigTable / Percolator, двухфазный коммит, lock-free
-- Детерминированные транзакции
+_\"Transactions are hard. Distributed transactions are harder. Distributed transactions over the WAN are final boss hardness.\"_ – Andy Pavlo
+
+- Транзакции, ACID, планировщик, расписания, сериализуемость
+- View- и conflict- serializability, граф конфликтов, критерий конфликтной сериализуемости
+- Двухфазные блокировки (2PL), дедлоки, прогресс
+- Snapshot isolation, версионированное хранилище аномалия write skew, двухфазный атомарный коммит, снапшоты
+- Транзакции в Google Spanner: 2PL + SI, TrueTime и commit wait
+- Детерминированные транзакции (Calvin)
 
 ## Formal Methods
 
