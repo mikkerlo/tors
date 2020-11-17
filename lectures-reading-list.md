@@ -109,6 +109,7 @@
 
 - [Use of Formal Methods at Amazon Web Services](https://lamport.azurewebsites.net/tla/formal-methods-amazon.pdf), [How Amazon Web Services Uses Formal Methods](https://www.cslab.pepperdine.edu/warford/math221/How-Amazon-Web-Services-Uses-Formal-Methods.pdf)
 - [Experience of software engineers	using TLA+, PlusCal and TLC](http://tla2012.loria.fr/contributed/newcombe-slides.pdf)
+- [Millions of Tiny Databases](https://www.usenix.org/system/files/nsdi20-paper-brooker.pdf)
 
 ### Примеры
 
