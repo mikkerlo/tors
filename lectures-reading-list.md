@@ -9,6 +9,7 @@
 - [Time, Clocks and GPS](http://www2.unb.ca/gge/Resources/gpsworld.nov-dec91.corr.pdf)
 - [Relativistic Effects in the Global Positioning System](https://www.aapt.org/doorway/TGRU/articles/Ashbyarticle.pdf), [Why does GPS depend on relativity?](https://physics.stackexchange.com/a/128951), [GPS, Relativity, and pop-Science Mythology](http://www.alternativephysics.org/book/GPSmythology.htm)
 - [Spanner, TrueTime and the CAP Theorem](https://ai.google/research/pubs/pub45855)
+- [Sundial: Fault-tolerant Clock Synchronization for Datacenters](https://www.usenix.org/conference/osdi20/presentation/li-yuliang)
 
 ## 2. Consistency Models, Replicated R/W Register (ABD)
 
