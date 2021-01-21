@@ -1,4 +1,4 @@
-## Модель, Время
+## Модель распределенной системы
 
 _\"All models are wrong, but some are useful\"_
 
@@ -43,7 +43,7 @@ _\"All models are wrong, but some are useful\"_
 - FLP теорема для детерминированных процессов в асинхронной системе, последствия для репликации: есть лайвлок, моменты недоступности системы
 - Понятие failure detector-ов
 
-## Basic (Single Decree) Paxos
+## Single-Decree Paxos
 
 _\"The Paxos algorithm, when presented in plain English, is very simple.\"_ – Leslie Lamport, _Paxos Made Simple_
 
@@ -61,7 +61,7 @@ _\"The Paxos algorithm, when presented in plain English, is very simple.\"_ – 
 
 - Явное представление порядка из AB в виде лога команд для автомата, общая схема RSM
 - Подходы: MultiPaxos, RAFT, ZAB, разница
-- Наивный MultiPaxos, независимые инстансы Basic Paxos в каждом слоте 
+- Наивный MultiPaxos, независимые инстансы Single-Decree Paxos в каждом слоте 
 - Выборы лидера, простой алгоритм с максимальным id, редиректы и кэширование лидера на клиенте
 - Пайплайнинг, в пределе - один RTT на коммит команды
 - Захват всего суффикса лога одним ballot number-ом, эпохи
@@ -91,7 +91,7 @@ _\"Transactions are hard. Distributed transactions are harder. Distributed trans
 - Транзакции в Google Spanner: 2PL + SI, TrueTime и commit wait
 - Детерминированные транзакции (Calvin)
 
-## Formal Methods
+## Формальные методы, TLA+
 
 _\"Weeks of debugging can save you hours of TLA+\"_
 
@@ -101,7 +101,7 @@ _\"Weeks of debugging can save you hours of TLA+\"_
 - Свойства safety и liveness
 - Линейная темпоральная логика
 - TLA, алгоритм как набор траекторий на структуре Крипке
-- Спека TLA для Basic Paxos, моделирование распределенных алгоритмов
+- Спецификация для Single-Decree Paxos, моделирование распределенных алгоритмов
 
 ## Byzantine Faults
 
@@ -123,7 +123,7 @@ _\"Weeks of debugging can save you hours of TLA+\"_
 - Чекпоинты
 - Zyzzyva
 
-## Bitcoin
+## Bitcoin, Nakamoto Consensus
 
 - Общая схема электронных денег, граф транзакций и цифровые подписи
 - Проблема double spending и лог транзакций, задача репликация лога в византийском окружении
@@ -140,6 +140,6 @@ _\"Weeks of debugging can save you hours of TLA+\"_
   * Шардирование и транзакции между блокчейнами (atomic swaps)
   * Анонимность и доказательства с нулевым разглашением
 
-## HotStuff
+## HotStuff / LibraBFT
 
 - TODO
