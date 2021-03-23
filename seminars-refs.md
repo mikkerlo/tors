@@ -39,6 +39,10 @@
 
 ---
 
+* [A journey to io_uring, AIO and modern storage devices](https://clickhouse.tech/blog/en/2021/reading-from-external-memory/), [Reading from External Memory](https://arxiv.org/pdf/2102.11198.pdf)
+
+---
+
 * [Algoritms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
 * [Database Internals Series on Disk I/O](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017])
 * [TiKV Internals: B-Tree vs Log-Structured Merge-Tree](https://tikv.github.io/deep-dive-tikv/key-value-engine/B-Tree-vs-Log-Structured-Merge-Tree.html)
