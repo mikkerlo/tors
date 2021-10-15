@@ -53,6 +53,7 @@
 * [A Brief History of Log Structured Merge Trees](https://ristret.com/s/gnd4yr/brief_history_log_structured_merge_trees)
 * [Why we built CockroachDB on top of RocksDB](https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/), [RocksDB in TiKV](https://medium.com/@PingCAP/rocksdb-in-tikv-34ece9bb4dc)
 * [Read, write and space amplification in B/LSM trees](http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-b-tree.html)
+* [Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience](https://www.usenix.org/conference/fast21/presentation/dong)
 
 ## Distributed File System
 
